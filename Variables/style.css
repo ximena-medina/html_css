@@ -1,0 +1,39 @@
+:root {
+    --primary-color: blue;
+    --secundary-color: salmon;
+    --header-size: 4rem;
+    --font: 1.8rem;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: "Poppins", serif;
+}
+
+header {
+    width: 100vw;
+    height: 15vh;
+    background-color: brown ;
+}
+
+main {
+    width: 100vw;
+    height: 50vh;
+    font-size: medium;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+footer {
+    width: 100vw;
+    height: 15vh;
+    background-color: aquamarine;
+}
