@@ -1,0 +1,40 @@
+body {
+    font-size: 1.6rem;
+}
+
+.container {
+    border: 0.3rem solid black;
+    display: flex;
+    align-items: baseline;
+    height: 50vh;
+    flex-grow: 1;
+}
+
+.box {
+    width: 10rem;
+    height: 10rem;
+}
+
+.box1 {
+    background-color: blue;
+}
+
+.box2 {
+    background-color: purple;
+}
+
+.box3 {
+    background-color: yellow;
+}
+
+.box4 {
+    background-color: green;
+}
+
+.box5 {
+    background-color: brown;
+}
+
+.box6 {
+    background-color: salmon;
+}
